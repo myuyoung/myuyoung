@@ -8,7 +8,7 @@
   [게시판 작성](https://github.com/myuyoung/MyWork.git)<br>
   [에어비앤비 리뉴얼](https://github.com/myuyoung/AirBnb.git)<br>  
   [영화 프로젝트](https://github.com/myuyoung/movie.git)<br><br>
-📫  Email : <strong>jjjonga33@naver.com</strong>
+📫  Email : <strong>parkcw5784@gmail.com</strong>
 </div>  
 
 <h3 align="center">Framework</h3>
