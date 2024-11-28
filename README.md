@@ -4,9 +4,20 @@
 <h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3>
 
 <div align="center">
-👨‍💻 저의 포트폴리오입니다 <ul><li><a href="https://github.com/myuyoung/MyWork.git">[게시판 작성]</li></ul>
+👨‍💻 저의 포트폴리오입니다 👇🏻
+<ul> 
+  <li>
+    <a href="https://github.com/myuyoung/MyWork.git">[게시판 작성]
+  </li>
+  <li>
+    <a href="https://github.com/myuyoung/AirBnb.git">[에어비앤비 리뉴얼]
+  </li>
+  <li>
+    <a href="https://github.com/myuyoung/movie.git">[에어비앤비 리뉴얼]
+  </li>
+</ul>
 
-📫 How to reach me **jjjonga33@naver.com**
+- 📫 Email : **jjjonga33@naver.com**
 </div>  
 
 <img class="box" alt="Static Badge" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&color=45A73C"> <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&color=28427C"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&color=F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"> <img alt="Static Badge" src="https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=000000"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff">
