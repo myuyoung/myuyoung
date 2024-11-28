@@ -1,15 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=283593&height=300&section=header&text=반갑습니다!%20백엔드%20개발자%박창욱입니다!&fontSize=45" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm ParkChangWook</h1>
-<h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3><br><br>
+<h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3>
 
-<div align="center">
-👨‍💻 저의 포트폴리오입니다 👇🏻<br>
-  [게시판 작성](https://github.com/myuyoung/MyWork.git)<br>
-  [에어비앤비 리뉴얼](https://github.com/myuyoung/AirBnb.git)<br>  
-  [영화 프로젝트](https://github.com/myuyoung/movie.git)<br><br>
+<div align="center" >
+👨‍💻 저의 프로젝트 결과물입니다 👇🏻<br>
+  <a href="https://github.com/myuyoung/MyWork.git">[게시판 작성]</a><br>
+  <a href="https://github.com/myuyoung/AirBnb.git">[에어비앤비 리뉴얼]</a><br>  
+  <a href="https://github.com/myuyoung/movie.git">[영화 프로젝트]</a><br><br>
 📫  Email : <strong>parkcw5784@gmail.com</strong>
-</div>  
+<br><br>
+📖 프로젝트와 코딩테스트에서 모르는 부분을 체화시키기 위해 저장한 문서입니다 <br><a href="https://neighborly-fragrance-3fc.notion.site/05582a4e919045f4a98a10e7b6d8f18e?pvs=4">[노션-공부파일]</a>
+</div>
+
+---
 
 <h3 align="center">Framework</h3>
 <p align="center">
