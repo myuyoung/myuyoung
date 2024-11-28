@@ -34,6 +34,7 @@
 <h3 align="center">Deploy</h3>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=footer&fontSize=45" width="100%"/>
