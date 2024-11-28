@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=반갑습니다!&fontSize=90" style="weight=100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=반갑습니다!%20백엔드%20개발자%박창욱입니다!&fontSize=45" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm ParkChangWook</h1>
-<h3 align="center">반갑습니다! 새싹 백엔드 개발자 박창욱입니다!</h3>
+<h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3>
 
-- 🌱 I’m currently learning **Docker, Kubernates**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/myuyoung/MyWork.git](https://github.com/myuyoung/MyWork.git)
 
