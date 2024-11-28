@@ -1,7 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=반갑습니다!%20백엔드%20개발자%박창욱입니다!&fontSize=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=283593&height=300&section=header&text=반갑습니다!%20백엔드%20개발자%박창욱입니다!&fontSize=45" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm ParkChangWook</h1>
 <h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3>
+
+
+<img class="box" alt="Static Badge" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&color=45A73C"> <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&color=28427C"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&color=F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"> <img alt="Static Badge" src="https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=000000"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff">
+
+
+
+
+
+
 
 
 
