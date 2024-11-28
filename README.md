@@ -11,19 +11,29 @@
 📫  Email : <strong>jjjonga33@naver.com</strong>
 </div>  
 
- <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&color=28427C"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"> <img alt="Static Badge" src="https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=000000"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"> <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff">
-
-
-<h3 align="left">Framework</h3>
-<p align="left">
-  <img class="box" alt="Static Badge" src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&color=45A73C">
+<h3 align="center">Framework</h3>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff">
 </p>
-<h3 align="left">Language</h3>
-<p align="left">
+<h3 align="center">Language</h3>
+<p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-527FFF?style=for-the-badge&logoColor=ffffff">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffffff&color=F7DF1E"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
 </p>
-
-
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&color=28427C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff">
+</p>
+<h3 align="center">DataBase</h3>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=000000">
+</p>
+<h3 align="center">Deploy</h3>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=100&section=footer&fontSize=45" width="100%"/>
