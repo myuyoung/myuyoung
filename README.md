@@ -5,7 +5,7 @@
 
 <div align="center" >
 👨‍💻 저의 프로젝트 결과물입니다 👇🏻<br>
-  <a href="https://github.com/myuyoung/RentCarService.git">[렌트카 예약 프로젝트</a><br>
+  <a href="https://github.com/myuyoung/RentCarService.git">[렌트카 예약 프로젝트]</a><br>
   <a href="https://github.com/myuyoung/movie.git">[영화 프로젝트]</a><br>
   <a href="https://github.com/myuyoung/MyWork.git">[게시판 작성]</a><br>
   <a href="https://github.com/myuyoung/AirBnb.git">[에어비앤비 리뉴얼]</a><br>
