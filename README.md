@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=283593&height=300&section=header&text=반갑습니다!%20백엔드%20개발자%박창욱입니다!&fontSize=45" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm ParkChangWook</h1>
+<h1 align="center">Hi 👋, My name is ChangWook Park</h1>
 <h3 align="center">반갑습니다! &nbsp 새싹🌱 백엔드 개발자 박창욱입니다!</h3>
 
 <div align="center" >
